@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class HomeController extends Controller
 {
@@ -23,8 +24,17 @@ class HomeController extends Controller
 	 */
 	public function index()
 	{
+		$title = '';
+		
+		if(Auth::check()){
+			$title = 'Мод Админ';
+		}else{
+			$title = 'Добро пожаловать';
+		}
+		
+		
 		$data = [
-			  'title' => 'Главная страница',
+			  'title' => $title,
 		];
 		return view('welcome', $data);
 	}
