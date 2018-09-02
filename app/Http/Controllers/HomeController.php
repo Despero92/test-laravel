@@ -25,8 +25,17 @@ class HomeController extends Controller
 	 */
 	public function index()
 	{
+		$title = '';
+		
+		if(Auth::check()){
+			$title = 'Мод Админ';
+		}else{
+			$title = 'Добро пожаловать';
+		}
+		
+		
 		$data = [
-			  'title' => 'Главная страница',
+			  'title' => $title,
 		];
 		return view('welcome', $data);
 	}
