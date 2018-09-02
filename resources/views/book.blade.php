@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{ URL::asset('css/chosen.css') }}"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="{{ URL::asset('css/style.css') }}"/>
+    <link rel="stylesheet" href="{{ URL::asset('css/style-2.css') }}"/>
     <title>{{ $title }}</title>
 </head>
 <body>

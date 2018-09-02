@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Http\Controllers\UploadController as Upload;
 use Illuminate\Support\Facades\Auth;
 
 class HomeController extends Controller
