@@ -24,72 +24,20 @@
 <main>
     <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="home">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3">
-                        <h2>Меню</h2>
-                        <nav class="admin_nav">
-                            <ul>
-                                <li></li>
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="col-md-9">
-
-                    </div>
-                </div>
-            </div>
+            @include('admin.admin_parts.slider')
+            @yield('slider_header')
         </div>
         <div role="tabpanel" class="tab-pane" id="profile">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3">
-                        <h2>Меню</h2>
-                        <nav class="admin_nav">
-                            <ul>
-                                <li></li>
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="col-md-9">
-
-                    </div>
-                </div>
-            </div>
+            @include('admin.admin_parts.works')
+            @yield('works')
         </div>
         <div role="tabpanel" class="tab-pane" id="messages">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3">
-                        <h2>Меню</h2>
-                        <nav class="admin_nav">
-                            <ul>
-                                <li></li>
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="col-md-9">
-
-                    </div>
-                </div>
-            </div>
+            @include('admin.admin_parts.about')
+            @yield('about')
         </div>
         <div role="tabpanel" class="tab-pane" id="settings">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3">
-                        <h2>Меню</h2>
-                        <nav class="admin_nav">
-                            <ul>
-                                <li></li>
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="col-md-9">
-
-                    </div>
-                </div>
-            </div>
+            @include('admin.admin_parts.contacts')
+            @yield('contacts')
         </div>
     </div>
 
