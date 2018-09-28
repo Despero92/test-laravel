@@ -10,7 +10,9 @@
             </nav>
         </div>
         <div class="col-md-9">
-
+            <div class="add_new_menuitem">
+                <form action="" id="add_menuitem"></form>
+            </div>
         </div>
     </div>
 </div>
