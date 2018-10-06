@@ -41,3 +41,8 @@ Route::get('/admin_denis/index', [
 	  'uses' => 'Admin\IndexController@index',
 	  'as' => 'admin.index',
 	  ]);
+Route::post('/admin_denis/add_category',
+[
+	  'uses' => 'Admin\CategoryController@addCategory',
+	'as' => 'admin.add_category',
+]);
