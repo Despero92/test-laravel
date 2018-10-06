@@ -121,104 +121,104 @@
                             </section>
                         </section>
                     </div>
-                    <div class="mix category-a mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">
-                        <img class="img-responsive" src="img/Fudi2.jpg" alt="image-description">
-                        <section class="item__content">
-                            <a href="#work_2" class="popup">Description</a>
-                            <a href="https://despero92.github.io/site-of-cooking/">Demo</a>
-                        </section>
-                        <section class="hidden">
-                            <section id="work_2" class="popup-content">
-                                <h3>Description title</h3>
-                                <p>description</p>
-                                <img class="img-responsive" src="img/Fudi2.jpg" alt="image-description">
-                            </section>
-                        </section>
-                    </div>
-                    <div class="mix category-b mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">
-                        <img class="img-responsive" src="img/Agency%20Website%20Home%20Page.jpg" alt="image-description">
-                        <section class="item__content">
-                            <a href="#work_3" class="popup">Description</a>
-                            <a href="https://despero92.github.io/blog-home-page/">Demo</a>
-                        </section>
-                        <section class="hidden">
-                            <section id="work_3" class="popup-content">
-                                <h3>Description title</h3>
-                                <p>description</p>
-                                <img class="img-responsive" src="img/Agency%20Website%20Home%20Page.jpg" alt="image-description">
-                            </section>
-                        </section>
-                    </div>
-                    <div class="mix category-b mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">
-                        <img class="img-responsive" src="img/Agency%20Website%20Blog%20Page.jpg" alt="image-description">
-                        <section class="item__content">
-                            <a href="#work_4" class="popup">Description</a>
-                            <a href="https://despero92.github.io/blog-page/">Demo</a>
-                        </section>
-                        <section class="hidden">
-                            <section id="work_4" class="popup-content">
-                                <h3>Description title</h3>
-                                <p>description</p>
-                                <img class="img-responsive" src="img/Agency%20Website%20Blog%20Page.jpg" alt="image-description">
-                            </section>
-                        </section>
-                    </div>
-                    <div class="mix category-b mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">
-                        <img class="img-responsive" src="img/Agency%20Website%20Blog%20Inner%20Page.jpg" alt="image-description">
-                        <section class="item__content">
-                            <a href="#work_5" class="popup">Description</a>
-                            <a href="https://despero92.github.io/blog-inner-page/">Demo</a>
-                        </section>
-                        <section class="hidden">
-                            <section id="work_5" class="popup-content">
-                                <h3>Description title</h3>
-                                <p>description</p>
-                                <img class="img-responsive" src="img/Agency%20Website%20Blog%20Inner%20Page.jpg" alt="image-description">
-                            </section>
-                        </section>
-                    </div>
-                    <div class="mix category-a mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">
-                        <img class="img-responsive" src="img/Identity.jpg" alt="image-description">
-                        <section class="item__content">
-                            <a href="#work_6" class="popup">Description</a>
-                            <a href="https://despero92.github.io/site-with-sidebar/">Demo</a>
-                        </section>
-                        <section class="hidden">
-                            <section id="work_6" class="popup-content">
-                                <h3>Description title</h3>
-                                <p>description</p>
-                                <img class="img-responsive" src="img/Identity.jpg" alt="image-description">
-                            </section>
-                        </section>
-                    </div>
-                    <div class="mix category-a mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">
-                        <img class="img-responsive" src="img/Plae_HoldingPageV42.jpg" alt="image-description">
-                        <section class="item__content">
-                            <a href="#work_7" class="popup">Description</a>
-                            <a href="https://despero92.github.io/Plae/">Demo</a>
-                        </section>
-                        <section class="hidden">
-                            <section id="work_7" class="popup-content">
-                                <h3>Description title</h3>
-                                <p>description</p>
-                                <img class="img-responsive" src="img/Plae_HoldingPageV42.jpg" alt="image-description">
-                            </section>
-                        </section>
-                    </div>
-                    <div class="mix category-a mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">
-                        <img class="img-responsive" src="img/Gisromh.jpg" alt="image-description">
-                        <section class="item__content">
-                            <a href="#work_8" class="popup">Description</a>
-                            <a href="https://despero92.github.io/Gisromh/">Demo</a>
-                        </section>
-                        <section class="hidden">
-                            <section id="work_8" class="popup-content">
-                                <h3>Description title</h3>
-                                <p>description</p>
-                                <img class="img-responsive" src="img/Gisromh.jpg" alt="image-description">
-                            </section>
-                        </section>
-                    </div>
+                    {{--<div class="mix category-a mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">--}}
+                        {{--<img class="img-responsive" src="img/Fudi2.jpg" alt="image-description">--}}
+                        {{--<section class="item__content">--}}
+                            {{--<a href="#work_2" class="popup">Description</a>--}}
+                            {{--<a href="https://despero92.github.io/site-of-cooking/">Demo</a>--}}
+                        {{--</section>--}}
+                        {{--<section class="hidden">--}}
+                            {{--<section id="work_2" class="popup-content">--}}
+                                {{--<h3>Description title</h3>--}}
+                                {{--<p>description</p>--}}
+                                {{--<img class="img-responsive" src="img/Fudi2.jpg" alt="image-description">--}}
+                            {{--</section>--}}
+                        {{--</section>--}}
+                    {{--</div>--}}
+                    {{--<div class="mix category-b mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">--}}
+                        {{--<img class="img-responsive" src="img/Agency%20Website%20Home%20Page.jpg" alt="image-description">--}}
+                        {{--<section class="item__content">--}}
+                            {{--<a href="#work_3" class="popup">Description</a>--}}
+                            {{--<a href="https://despero92.github.io/blog-home-page/">Demo</a>--}}
+                        {{--</section>--}}
+                        {{--<section class="hidden">--}}
+                            {{--<section id="work_3" class="popup-content">--}}
+                                {{--<h3>Description title</h3>--}}
+                                {{--<p>description</p>--}}
+                                {{--<img class="img-responsive" src="img/Agency%20Website%20Home%20Page.jpg" alt="image-description">--}}
+                            {{--</section>--}}
+                        {{--</section>--}}
+                    {{--</div>--}}
+                    {{--<div class="mix category-b mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">--}}
+                        {{--<img class="img-responsive" src="img/Agency%20Website%20Blog%20Page.jpg" alt="image-description">--}}
+                        {{--<section class="item__content">--}}
+                            {{--<a href="#work_4" class="popup">Description</a>--}}
+                            {{--<a href="https://despero92.github.io/blog-page/">Demo</a>--}}
+                        {{--</section>--}}
+                        {{--<section class="hidden">--}}
+                            {{--<section id="work_4" class="popup-content">--}}
+                                {{--<h3>Description title</h3>--}}
+                                {{--<p>description</p>--}}
+                                {{--<img class="img-responsive" src="img/Agency%20Website%20Blog%20Page.jpg" alt="image-description">--}}
+                            {{--</section>--}}
+                        {{--</section>--}}
+                    {{--</div>--}}
+                    {{--<div class="mix category-b mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">--}}
+                        {{--<img class="img-responsive" src="img/Agency%20Website%20Blog%20Inner%20Page.jpg" alt="image-description">--}}
+                        {{--<section class="item__content">--}}
+                            {{--<a href="#work_5" class="popup">Description</a>--}}
+                            {{--<a href="https://despero92.github.io/blog-inner-page/">Demo</a>--}}
+                        {{--</section>--}}
+                        {{--<section class="hidden">--}}
+                            {{--<section id="work_5" class="popup-content">--}}
+                                {{--<h3>Description title</h3>--}}
+                                {{--<p>description</p>--}}
+                                {{--<img class="img-responsive" src="img/Agency%20Website%20Blog%20Inner%20Page.jpg" alt="image-description">--}}
+                            {{--</section>--}}
+                        {{--</section>--}}
+                    {{--</div>--}}
+                    {{--<div class="mix category-a mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">--}}
+                        {{--<img class="img-responsive" src="img/Identity.jpg" alt="image-description">--}}
+                        {{--<section class="item__content">--}}
+                            {{--<a href="#work_6" class="popup">Description</a>--}}
+                            {{--<a href="https://despero92.github.io/site-with-sidebar/">Demo</a>--}}
+                        {{--</section>--}}
+                        {{--<section class="hidden">--}}
+                            {{--<section id="work_6" class="popup-content">--}}
+                                {{--<h3>Description title</h3>--}}
+                                {{--<p>description</p>--}}
+                                {{--<img class="img-responsive" src="img/Identity.jpg" alt="image-description">--}}
+                            {{--</section>--}}
+                        {{--</section>--}}
+                    {{--</div>--}}
+                    {{--<div class="mix category-a mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">--}}
+                        {{--<img class="img-responsive" src="img/Plae_HoldingPageV42.jpg" alt="image-description">--}}
+                        {{--<section class="item__content">--}}
+                            {{--<a href="#work_7" class="popup">Description</a>--}}
+                            {{--<a href="https://despero92.github.io/Plae/">Demo</a>--}}
+                        {{--</section>--}}
+                        {{--<section class="hidden">--}}
+                            {{--<section id="work_7" class="popup-content">--}}
+                                {{--<h3>Description title</h3>--}}
+                                {{--<p>description</p>--}}
+                                {{--<img class="img-responsive" src="img/Plae_HoldingPageV42.jpg" alt="image-description">--}}
+                            {{--</section>--}}
+                        {{--</section>--}}
+                    {{--</div>--}}
+                    {{--<div class="mix category-a mixitup__item col-lg-3 col-md-3 col-sm-4 col-xs-6">--}}
+                        {{--<img class="img-responsive" src="img/Gisromh.jpg" alt="image-description">--}}
+                        {{--<section class="item__content">--}}
+                            {{--<a href="#work_8" class="popup">Description</a>--}}
+                            {{--<a href="https://despero92.github.io/Gisromh/">Demo</a>--}}
+                        {{--</section>--}}
+                        {{--<section class="hidden">--}}
+                            {{--<section id="work_8" class="popup-content">--}}
+                                {{--<h3>Description title</h3>--}}
+                                {{--<p>description</p>--}}
+                                {{--<img class="img-responsive" src="img/Gisromh.jpg" alt="image-description">--}}
+                            {{--</section>--}}
+                        {{--</section>--}}
+                    {{--</div>--}}
                 </div>
             </div>
         </div>

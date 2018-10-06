@@ -39,10 +39,6 @@ class HomeController extends Controller
 			}
 		}
 		
-		$data = [
-			  'title' => 'Главная страница',
-				'files' => $files,
-];
 		$title = '';
 		
 		if(Auth::check()){
@@ -50,6 +46,11 @@ class HomeController extends Controller
 		}else{
 			$title = 'Добро пожаловать';
 		}
+		
+		$data = [
+			  'title' => $title,
+			  'files' => $files,
+		];
 		
 		return view('index', $data);
 	}
